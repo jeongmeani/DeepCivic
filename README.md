@@ -1,4 +1,4 @@
-# Summary
+# Detect pathogenicity
 Using ResNet network, predict pathogenicity from genetic data
 
 # Purpose
