@@ -1,5 +1,6 @@
 # Detect pathogenicity
 Using ResNet network, predict pathogenicity from genetic data.
+
 Original of this code was from Deeplearning lecture organized by "KoreaBio".
 I have modified framework from Tensorflow to Pytorch and activation & loss fuction.
 
